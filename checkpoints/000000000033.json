@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "treeSize": 33,
+  "rootHash": "793dc922b4b30e2021d498ca320a462954d47d4d0dc07b012bcbb6f0ad34cea3",
+  "frontier": [
+    "f4f52eea4b045527fec17aded59556a0c8e13fb156cfbbdb61c9143999519ef2",
+    "26d0c37b95fe2c54157adfb78e6697abec7b8875da25b899d5a95f84bd7cb583"
+  ],
+  "coversFrom": "2026-09-07T07:30:38.579Z",
+  "coversUntil": "2026-09-07T08:30:35.773Z",
+  "createdAt": "2026-09-07T09:00:35.773Z",
+  "cosignatures": []
+}
